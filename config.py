@@ -12,7 +12,7 @@ OWNER = int(os.environ.get("OWNER", "6834250190"))
 
 LOG = int(os.environ.get("LOG", "1"))
 
-PORT = os.environ.get("PORT", "8080")
+PORT = os.environ.get("PORT", "")
 
 # UPDATE_GRP = , # bot sat group
 
